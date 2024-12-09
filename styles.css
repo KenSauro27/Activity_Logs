@@ -1,0 +1,15 @@
+body {
+	font-family: "Arial";
+}
+input {
+	font-size: 1.5em;
+	height: 50px;
+	width: 200px;
+}
+table, th, td {
+	border:1px solid black;
+}
+
+header {
+    text-align: center;
+}
